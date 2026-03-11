@@ -1,2 +1,5 @@
-# reading-auth-logs-like-a-human
-: Simple parsing of authentication logs
+# Reading Auth Logs Like a Human
+
+Auth logs can contain many lines of activity.
+
+This simple script filters authentication logs and shows only failed login attempts.
